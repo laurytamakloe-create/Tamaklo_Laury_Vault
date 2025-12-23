@@ -1,0 +1,269 @@
+{
+  "main": {
+    "id": "e77e12d31a2d655b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d6f2bdc47ddb0a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e07dc4f81ea01e2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Documentation/Readme.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Readme.md"
+            }
+          },
+          {
+            "id": "ffd6b349198224ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8_Données/Synthese_Salariale.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Synthese_Salariale.md"
+            }
+          },
+          {
+            "id": "88846df5728fead8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_Documentation/Documentation_Technique.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Documentation_Technique.md"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "49f5b07afc2086a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b2c03896ee58dd4",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Slide Preview"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4556b877d2798ea8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9c255c5aba9d0ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e60f1cb1ef5c0520",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "6630a57768e0d580",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#metier/finance",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "a8eee7bcf2ff3e06",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signets"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ca457e1feffb974f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fce407b83a2add1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c6ad57a856929d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bienvenue.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour Bienvenue"
+            }
+          },
+          {
+            "id": "5d2da3bd1158b5da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bienvenue.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de Bienvenue"
+            }
+          },
+          {
+            "id": "528e3640c5108110",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "716c0962b9745cf8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bienvenue.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan de Bienvenue"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "e60f1cb1ef5c0520",
+  "lastOpenFiles": [
+    "GitHub/Tamaklo_Laury_Vault/README.md",
+    "GitHub/Tamaklo_Laury_Vault",
+    "GitHub",
+    "1_Présentation/Presentation_Soutenance.md",
+    "8_Données/Synthese_Salariale.md.md",
+    "tableau_de_bord.canvas",
+    "Excalidraw/schema_projet.md",
+    "6_Attachements/Réflexion_Personnelle.md.md",
+    "6_Attachements/Bilan_Competences.md",
+    "5_Templates/Modele_Metier.md",
+    "5_Templates/Modele_Fiche_Metier.md",
+    "4_fiche_metier/Enseignant-chercheur.md",
+    "4_fiche_metier/Actuaire.md",
+    "3_Entretiens/Entretien_Amedanou.md",
+    "3_Entretiens/Entretien_Agbedjinou.md",
+    "2_Documentation/Documentation_Technique.md.md",
+    "0_Sommaire/Sommaire.md",
+    "0_Sommaire/Readme.md.md",
+    "Excalidraw",
+    "7_Ressources/Pasted image 20251223025600.png",
+    "7_Ressources/Pasted image 20251223025839.png",
+    "7_Ressources/Pasted image 20251223030132.png",
+    "7_Ressources/Pasted image 20251223031604.png",
+    "7_Ressources/Pasted image 20251222212841.png",
+    "7_Ressources/Pasted image 20251222212825.png",
+    "7_Ressources/Pasted image 20251222212719.png",
+    "7_Ressources/Pasted image 20251222212029.png",
+    "7_Ressources/Pasted image 20251222211947.png",
+    "7_Ressources/Pasted image 20251222211824.png",
+    "Réflexion_Personnelle.md",
+    "1_Présentation",
+    "8_Données",
+    "0_Sommaire",
+    "7_Ressources/Analyse.md",
+    "tableau_de_bord.md",
+    "Tableau_de_Bord.md",
+    "Synthese_Salariale.md",
+    "1_Documentation/les liens et autres.md",
+    "7_Ressources",
+    "Logiciels.md",
+    "Sans titre.base",
+    "institutdesactuaires.com.md",
+    "Comparatif_Metiers.md",
+    "Fiche_metier",
+    "Sans titre 1.md",
+    "Bienvenue.md"
+  ]
+}

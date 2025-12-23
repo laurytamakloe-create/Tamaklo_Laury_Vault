@@ -1,0 +1,57 @@
+/* Palette Ultra-Professionnelle Tamakloe Laury */
+
+/* 1. Titres Principaux (Style Institutionnel) */
+.markdown-rendered h1 {
+  color: #1a2a6c; /* Bleu Nuit */
+  font-family: 'Inter', sans-serif;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border-bottom: 3px solid #b8926a; /* Ligne de séparation Or/Bronze */
+  padding-bottom: 8px;
+  margin-top: 40px;
+}
+
+/* 2. Sous-titres (Clarté et Structure) */
+.markdown-rendered h2 {
+  color: #2c3e50; /* Gris Ardoise foncé */
+  font-weight: 600;
+  border-left: 5px solid #1a2a6c; /* Rappel du bleu en bordure */
+  padding-left: 15px;
+  margin-top: 30px;
+}
+
+/* 3. Lignes de séparation (Horizontal Rules) */
+hr {
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, #b8926a, #1a2a6c, transparent);
+  margin: 20px 0;
+}
+
+/* 4. Tableaux Dataview (Design Épuré) */
+.dataview.table-view-table {
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  border: 1px solid #d1d1d1;
+}
+
+.dataview.table-view-table thead th {
+  background-color: #1a2a6c !important;
+  color: #ffffff !important;
+  font-weight: bold;
+  padding: 12px;
+  text-transform: uppercase;
+  font-size: 0.85em;
+}
+
+.dataview.table-view-table tbody tr:nth-child(even) {
+  background-color: #f8f9fa; /* Lignes alternées pour la lisibilité */
+}
+
+/* 5. Mise en gras professionnelle */
+strong {
+  color: #1a2a6c;
+  font-weight: 700;
+}
